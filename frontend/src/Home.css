@@ -1,0 +1,27 @@
+/* src/Home.css */
+.home-container {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .services {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .service-card {
+    background-color: #007bff;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 200px;
+    margin: 20px;
+    cursor: pointer;
+    transition: 0.3s ease;
+  }
+  
+  .service-card:hover {
+    background-color: #0056b3;
+  }
+  

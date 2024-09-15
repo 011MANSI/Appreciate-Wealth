@@ -1,0 +1,25 @@
+/* src/Chatbot.css */
+.fruit-cards {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .fruit-card {
+    background-color: #ffcc00;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  .fruit-card:hover {
+    background-color: #ffaa00;
+  }
+  
+  .fruit-details {
+    margin-top: 20px;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
